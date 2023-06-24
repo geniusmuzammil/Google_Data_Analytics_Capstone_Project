@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Project: Bitcoin vs Ethereum
+# Google Data Analytics Capstone Project: Analyzing the Fluctuations of Bitcoin and Ethereum
 
 This repository contains the code and analysis for the Google Data Analytics Capstone Project, focusing on comparing the cryptocurrencies Bitcoin and Ethereum.
 
