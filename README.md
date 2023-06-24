@@ -19,7 +19,7 @@ To run the code and reproduce the analysis, follow these steps:
 1. Clone the repository: `git clone https://github.com/geniusmuzammil/Google_Data_Analytics_Capstone_Project.git`
 2. Navigate to the project directory: `cd Google_Data_Analytics_Capstone_Project`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Open the Jupyter Notebooks in the `EDA/` directory and run each cell to execute the code.
+4. Open the Jupyter Notebooks in the `Notebook/` directory and run each cell to execute the code.
 
 ## Results and Conclusions
 The project aims to provide insights into the comparative analysis of Bitcoin and Ethereum, focusing on their market trends, price fluctuations, and potential investment opportunities. The generated reports and visualizations will help users gain a deeper understanding of the cryptocurrency market and make informed decisions regarding their investments.
